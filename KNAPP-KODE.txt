@@ -1,0 +1,31 @@
+// INNE I <HEAD>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+        }
+        .center-fit {
+            max-width: 75%;
+        }
+		button {
+		font-size: 18px;
+		}
+
+    </style>
+	
+
+<button onclick="window.location.href='omoss.html';">
+  Om Oss
+</button>
+<button onclick="window.location.href='skytjenester.html';">
+  Skytjenester
+</button>
+<button onclick="window.location.href='reparasjon.html';">
+  Service & Reparasjon
+</button>
+<button onclick="window.location.href='kontakt.html';">
+  Kontakt
+</button>
